@@ -5,7 +5,7 @@ I am a master student in [Beijing University of Posts and Telecommunications (BU
 
 I will receive my **M. S.** degree in **2018 spring**, and I really hope to pursue a **Ph. D.** degree after that.
 
-Detailed information about me is provided in my [CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf).
+Detailed information about me is provided in my [**CV**](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf).
 
 ### Research
 Much of my master's work focuses on the application of compressed sensing in millimeter wave channel estimation.
