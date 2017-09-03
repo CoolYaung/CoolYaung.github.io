@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages of Jianyi Yang!
 
-My [CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf) here.
+#My [CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf) here.
 
-My publications:
+###My publications:
 [1] J. Yang, Z. Wei, N. Li, L. Sang and P. Li, [”Correlation Based Adaptive Compressed Sensing for Millimeter Wave Channel Estimation,”](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/Correlation%20Based%20Adaptive%20Compressed%20Sensing%20for%20Millimeter%20Wave%20Channel%20Estimation.pdf) IEEE Wireless Communications and Networking Conference (WCNC), Mar. 2017.
 
 [2] J. Yang, Z. Wei, X. Zhang, N. Li and L. Sang, [”Enhanced Multi-Resolution Hierarchical Codebook Design for Adaptive Compressed
@@ -35,10 +35,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoolYaung/CoolYaung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
