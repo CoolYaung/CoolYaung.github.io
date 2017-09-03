@@ -10,6 +10,8 @@ Detailed information about me is provided in my [CV](https://github.com/CoolYaun
 ### Research
 Much of my master's work focuses on the application of compressed sensing in millimeter wave channel estimation.
 
+Meanwhile, I have been researching on the theory of compressed sensing including approximated message passing (AMP).
+
 I have also done some work on signal identification for cognitive radio (CR).
 
 ### Publications:
