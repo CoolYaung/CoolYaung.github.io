@@ -1,9 +1,9 @@
 ## Welcome to My Pages!
 I am **Jianyi Yang**.
 
-I am a master student in [Beijing University of Posts and Telecommunications (BUPT)](http://english.bupt.edu.cn/content/content.php?p=2_8_16) advised by Professor Lin Sang. I received my B. S. degree in Information Engineering from [Xidian University](http://en.xidian.edu.cn/About_Xidian/Overview.htm) in 2015. 
+I am a master student in [Beijing University of Posts and Telecommunications (BUPT)](http://english.bupt.edu.cn/content/content.php?p=2_8_16) advised by Professor Lin Sang (GPA: 86.29). I received my B. S. degree in Information Engineering from [Xidian University](http://en.xidian.edu.cn/About_Xidian/Overview.htm) in 2015 (GPA: 88.76, Ranking 1/153).  
 
-I will receive my **M. S.** degree in **2018 spring**, and I really hope to pursue a **Ph. D.** degree after that.
+I will receive my **M. S.** degree in Information and Communication Engineering in **2018 spring**, and I really hope to pursue a **Ph. D.** degree after that.
 
 Detailed information about me is provided in my [**CV**](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf).
 
