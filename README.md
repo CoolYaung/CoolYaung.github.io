@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages of Jianyi Yang!
 
-#My [CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf) here.
+# My [CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf) here.
 
-###My publications:
+### My publications:
 [1] J. Yang, Z. Wei, N. Li, L. Sang and P. Li, [”Correlation Based Adaptive Compressed Sensing for Millimeter Wave Channel Estimation,”](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/Correlation%20Based%20Adaptive%20Compressed%20Sensing%20for%20Millimeter%20Wave%20Channel%20Estimation.pdf) IEEE Wireless Communications and Networking Conference (WCNC), Mar. 2017.
 
 [2] J. Yang, Z. Wei, X. Zhang, N. Li and L. Sang, [”Enhanced Multi-Resolution Hierarchical Codebook Design for Adaptive Compressed
