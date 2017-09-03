@@ -1,11 +1,15 @@
 ## Welcome to My Pages!
 I am **Jianyi Yang**.
+
 I am a master student in [Beijing University of Posts and Telecommunications (BUPT)](http://english.bupt.edu.cn/content/content.php?p=2_8_16) advised by Professor Lin Sang. I received my B. S. degree in Information Engineering from [Xidian University](http://en.xidian.edu.cn/About_Xidian/Overview.htm) in 2015. 
+
 I will receive my **M. S.** degree in **2018 spring**, and I really hope to pursue a **Ph. D.** degree after that.
+
 Detailed information about me is provided in my [CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CV_YANG(6).pdf).
 
 ### Research
 Much of my master's work focuses on the application of compressed sensing in millimeter wave channel estimation.
+
 I have also done some work on signal identification for cognitive radio (CR).
 
 ### Publications:
@@ -18,4 +22,5 @@ Sensing Based Millimeter Wave Channel Estimation,”](https://github.com/CoolYau
 
 ### Contact
 E-mail: yangjianyi@bupt.edu.cn; buptyjy@126.com
+
 Tel.: (+86) 137-1842-2581
