@@ -9,7 +9,8 @@ I will receive my **M. S.** degree in Information and Communication Engineering 
 ### Research
 Much of my master's work focuses on the application of compressed sensing in millimeter wave channel estimation.
 
-Meanwhile, I have been researching on the theory of compressed sensing including approximated message passing (AMP).
+Meanwhile, I have been researching on the theory of compressed sensing including approximated message passing (AMP). 
+[A complete derivation of Sum-product GAMP](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/A%20Complete%20Derivation%20of%20Sum-product%20Generalized%20Approximate%20Message%20Passing.pdf)
 
 I have also done some work on signal identification for cognitive radio (CR).
 
