@@ -1,6 +1,6 @@
 ## Jianyi Yang
 ### About me ([CV](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/CY_JianyiYang.pdf))
-![Image](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/DSC_5987.JPG)
+
 I am a master student in [Beijing University of Posts and Telecommunications (BUPT)](http://english.bupt.edu.cn/content/content.php?p=2_8_16) advised by Professor Lin Sang (GPA: 86.29). I received my B. S. degree in Information Engineering from [Xidian University](http://en.xidian.edu.cn/About_Xidian/Overview.htm) in 2015 (GPA: 88.76, Ranking 1/153).  
 
 I will receive my **M. S.** degree in Information and Communication Engineering in **2018 spring**, and I really hope to pursue a **Ph. D.** degree in Information and Signal Processing Theory after that.
@@ -9,7 +9,7 @@ I will receive my **M. S.** degree in Information and Communication Engineering 
 ### Research
 Much of my master's work focuses on the application of compressed sensing in millimeter wave channel estimation.
 
-Meanwhile, I have been researching on the theory of compressed sensing including approximated message passing (AMP).     [A complete derivation of Sum-product GAMP](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/A%20Complete%20Derivation%20of%20Sum-product%20Generalized%20Approximate%20Message%20Passing.pdf)
+Meanwhile, I have been researching on the theory of compressed sensing including approximated message passing (AMP).  Some work is summarized in [GAMP: A Complete Derivation and its Application to 1-bit Measuring of AWGN Output](https://github.com/CoolYaung/CoolYaung.github.io/blob/master/GAMP%20A%20Complete%20Derivation%20and%20its%20Application%20on%201-bit%20Measuring%20of%20AWGN%20Output.pdf)
 
 I have also done some work on signal identification for cognitive radio (CR).
 
